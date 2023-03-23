@@ -1,0 +1,107 @@
+{"Company_Name":"RHEMA FINANCIAL SERVICES","Home_Address":"63 Middlesex St, Chelmsford, Massachusetts, 01863","Email":"rhemafinserve@gmail.com"}
+{"Company_Name":"My Financial Home Enterprises LLC","Home_Address":"1011 Kumquat Pl, Oxnard, California, 93036","Email":"cozette@myfinancialhome.com"}
+{"Company_Name":"Visionary Accounting & Tax Services","Home_Address":"13017 Wisteria Dr, Germantown, Maryland, 20874","Email":"solutions@visionarytax.net"}
+{"Company_Name":"Sovereign Tax Solutions","Home_Address":"100 Overlook Center, West Windsor Township, New Jersey, 08540","Email":"info@sovereigntaxsolutions.com"}
+{"Company_Name":"Get Right Tax Service, LLC","Home_Address":"1004 Main St, Maysville, North Carolina, 28555","Email":"info@getrighttaxservicellc.com"}
+{"Company_Name":"A-Countability Plus Tax Service","Home_Address":"8438 Hospital Dr, Douglasville, Georgia, 30134","Email":"Aplustaxinfo@gmail.com"}
+{"Company_Name":"Your tax doctor llc","Home_Address":"807 Washington Dr, Arlington, Texas, 76011","Email":"freeandfastestimates@yourtaxdoctors.com"}
+{"Company_Name":"Oliver & Associates","Home_Address":"9181 Bastille Way, Frisco, Texas, 75033","Email":"charlesoliver943@gmail.com"}
+{"Company_Name":"Rolanda's Tax & Professional Service","Home_Address":"2600 S Loop W #340, Houston, Texas, 77054","Email":"info@mytaxlady.net"}
+{"Company_Name":"Pretty Girls Business Group","Home_Address":"4150 Jonesboro Rd, Forest Park, Georgia, 30297","Email":"info@prettygirls.business"}
+{"Company_Name":"Tax Queen & Services","Home_Address":"2940 Trawick Rd, Raleigh, North Carolina, 27604","Email":"support@taxqueenservice.com"}
+{"Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Tax Divas LLC","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Pajako LLC","Home_Address":"2131 N Collins St, Arlington, Texas, 76011","Email":"INFO@WEMAKEPERFECTCENTS.COM"}
+{"Company_Name":"Tax Strategy","Home_Address":"1821 W Hubbard St #209-10, Chicago, Illinois, 60622","Email":"Admin@YourTaxStrategy.Info"}
+{"Company_Name":"Royalty Tax Services LLC","Home_Address":"6114 W Capitol Dr, Milwaukee, Wisconsin, 53216","Email":"aneiia@royaltytaxservicesllc.com"}
+{"Company_Name":"Wright Way Financial Services","Home_Address":"1010 Lake St, Oak Park, Illinois, 60301","Email":"keiona@wrightwayfinancialservices.co"}
+{"Company_Name":"LAT Financial Group","Home_Address":"440 Royellou, Mount Dora, Florida, 32757","Email":"contact@latfinancialgroup.com"}
+{"Company_Name":"365 Tax Service llc","Home_Address":"2435 Florida St, Mandeville, Louisiana, 70448","Email":"taxservicellc365@gmail.com"}
+{"Company_Name":"EXTRA EXTRA TAX SOLUTIONS LLC","Home_Address":"307 W Main ST Senatobia MS 38668, Philadelphia, Pennsylvania, undefined","Email":"mmilam@extra-extrasolutions.com"}
+{"Company_Name":"Major League Tax Group","Home_Address":"1910 Madison Ave #3085, Memphis, Tennessee, 38104","Email":"info@majorleaguetaxgroup.com"}
+{"Company_Name":"Tax Group University","Home_Address":"1258 Dunham St SE, grand rapids, Michigan, 49506","Email":"admin@taxgroupuniversity.com"}
+{"Company_Name":"IL Stafford Group","Home_Address":"710 Armstead St, Rockingham, North Carolina, 28379","Email":"ilovestafford59@gmail.com"}
+{"Company_Name":"Diversified Associates LLC","Home_Address":"1019 E 4th Pl, Los Angeles, California, 90013","Email":"flowproductionsjeff@gmail.com"}
+{"Company_Name":"The Network","Home_Address":"1857 Duval St, Mobile, Alabama, 36606","Email":"info@thenetwgroup.com"}
+{"Company_Name":"Rose Tax Solutions","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Tax Divas LLC","Home_Address":"7333 Puritan Ave, Detroit, Michigan, 48238","Email":"camea@taxdivas.org"}
+{"Company_Name":"SBS Tax Services","Home_Address":"610 Uptown Blvd, Cedar Hill, Texas, 75104","Email":"info@smartbusinesssolutionstx.com"}
+{"Company_Name":"Sovereign Tax Solutions","Home_Address":"undefined, undefined, undefined, undefined","Email":"info@sovereigntaxsolutions.com"}
+{"Company_Name":"Eminent Tax and Notary Services","Home_Address":"11675 Kentucky St, Detroit, Michigan, 48204","Email":"denise@etnservices.org"}
+{"Company_Name":"A-Countability Plus Tax Service","Home_Address":"8438 Hospital Dr, Douglasville, Georgia, 30134","Email":"1040APLUS@GMAIL.COM"}
+{"Company_Name":"Castro Enterprises Unlimited","Home_Address":"100 N Ashley Dr, Tampa, Florida, 33606","Email":"info@castroenterprisesunlimited.com"}
+{"Company_Name":"CAS Financial","Home_Address":"42 St Mark Rd, Taylors, South Carolina, 29687","Email":"info@casfinancialllc.com"}
+{"Company_Name":"E lynn Tax Service LLC","Home_Address":"10999 Reed Hartman Hwy, Blue Ash, Ohio, 45242","Email":"elynntaxservice@gmail.com"}
+{"Company_Name":"K Mayes Enterprise","Home_Address":"2153 SE Hawthorne Rd, Gainesville, Florida, 32641","Email":"info@chandamayes.com"}
+{"Company_Name":"Nashville Tax Relief/Pro Tax Education","Home_Address":"301 S Perimeter Park Dr, Nashville, Tennessee, 37211","Email":"helpdesk@protaxeducation.com"}
+{"Company_Name":"All In Tax Solutions","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Boss Tax and Accounting Services LLC","Home_Address":"4436 N Brady St, Davenport, Iowa, 52806","Email":"bosstaxact@gmail.com"}
+{"Company_Name":"The Tax Stop USA","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Sellers Financial Group","Home_Address":"2504 Washington St Ste 505, Waukegan, Illinois, 60085","Email":"sellers_ins_tax@yahoo.com"}
+{"Company_Name":"Onsite Taxes & Financial Solutions, LLC","Home_Address":"1857 Duval St, Mobile, alabama, 36606","Email":"onsitetaxesllc@gmail.com"}
+{"Company_Name":"Fresh Start Academy & Software Solutions","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"RWS NOTARY AND FINANCIAL SERVICES, LLC","Home_Address":"1101 Exchange Pl, Durham, North Carolina, 27713","Email":"rwsnot@gmail.com"}
+{"Company_Name":"Grand Slam Business Solutions","Home_Address":"462 Elwood Ave, Oakland, California, 94610","Email":"grandslambusiness@gmail.com"}
+{"Company_Name":"DA BIZZ TAX TITLE & MORE","Home_Address":"8300 La Prada Dr #176, Dallas, Texas, 75228","Email":"lovillabables@yahoo.com"}
+{"Company_Name":"JW Taxperts LLC","Home_Address":"undefined, undefined, undefined, undefined","Email":"info@jwtaxperts.com"}
+{"Company_Name":"Elite Tax Pros +","Home_Address":"Birmingham, Birmingham, Alabama, 35233","Email":"info@elitetaxpros.net"}
+{"Company_Name":"Tax Master Plus","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Plugged in tax associates llc","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Financial Business Solutions","Home_Address":"San Francisco Bay Area, Oakland, California, 94501","Email":"hoxy23@gmail.com"}
+{"Company_Name":"Simply Royal Tax Services LLC","Home_Address":"undefined, undefined, undefined, undefined","Email":"melaniejones@simplyroyaltaxservices.com"}
+{"Company_Name":"LQ Financial Group LLC","Home_Address":"7812 N College Cir, North Richland Hills, Texas, 76180","Email":"lq@lqfinancialgroup.com"}
+{"Company_Name":"Amazin Tax & Financial","Home_Address":"undefined, undefined, undefined, undefined","Email":"amazincredit@gmail.com"}
+{"Company_Name":"Integrity Financial Solution","Home_Address":"undefined, undefined, undefined, undefined","Email":"integrityfinancialtaxsolution@gmail.com"}
+{"Company_Name":"Gees Tax Shop","Home_Address":"2385 Wall St SE, Conyers, Georgia, 30013","Email":"Geestaxshop@yahoo.com"}
+{"Company_Name":"Steady Refunds","Home_Address":"undefined, undefined, undefined, undefined","Email":"eross@steadyrefunds.com"}
+{"Company_Name":"Melanin Tax Solutions","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Brown Tax Service LLC","Home_Address":"undefined, undefined, undefined, undefined","Email":"Browntaxservicellc@yahoo.com"}
+{"Company_Name":"The KB Consulting Firm LLC","Home_Address":"8205 Camp Bowie W Blvd, Fort Worth, Texas, 76116","Email":"kbrown@thekbconsultingfirm.com"}
+{"Company_Name":"Q & Q Tax and Financial Services","Home_Address":"5401 S Kirkman Rd, Orlando, Florida, 32819","Email":"qualena@qqtaxpros.com"}
+{"Company_Name":"Jackson Enterprises","Home_Address":"11 N Water St Suite 10290, Mobile, Alabama, 36602","Email":"nicholetaxprofessional@gmail.com"}
+{"Company_Name":"A Unique Experience LLC","Home_Address":"undefined, undefined, undefined, undefined","Email":"info@auniqueexperience.org"}
+{"Company_Name":"Rose Tax Solutions","Home_Address":"107 N Greenwood Ave, Tulsa, Oklahoma, 74120","Email":"rosetaxsolutions@gmail.com"}
+{"Company_Name":"Anytime Tax & Financial Services","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Tamida's TaXes LLC","Home_Address":"1601 National Ave, New Bern, North Carolina, 28560","Email":"empiretaxes2020@gmail.com"}
+{"Company_Name":"Brown Tax Service LLC","Home_Address":"St Luke Rd, Soperton, Georgia, 30457","Email":"Browntaxservicellc@yahoo.com"}
+{"Company_Name":"Plugged in tax associates llc","Home_Address":"117 S Jefferson Ave, Eatonton, Georgia, 31024","Email":"Pluggedintaxassociates@gmail.com"}
+{"Company_Name":"Elite Tax Pros +","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Oliver & Associates","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Magic Tax LLC","Home_Address":"2715 Mackey Pl, Shreveport, Louisiana, 71118","Email":"magictaxla@gmail.com"}
+{"Company_Name":"Eminent Tax and Notary Services","Home_Address":"undefined, undefined, undefined, undefined","Email":"denise@etnservices.org"}
+{"Company_Name":"All In Tax Solutions","Home_Address":"2349 Memorial Blvd, Port Arthur, Texas, 77642","Email":"d.curtis@allintaxsolutions.net"}
+{"Company_Name":"A Unique Experience LLC","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Simply Royal Tax Services LLC","Home_Address":"720 W 5th Ave, Gary, Indiana, 46402","Email":"melaniejones@simplyroyaltaxservices.com"}
+{"Company_Name":"Peace Tax Services","Home_Address":"205 E Brandon Blvd, Brandon, Florida, 33511","Email":"info@peacetaxservices.com"}
+{"Company_Name":"Best Tax","Home_Address":"22430 Gratiot Ave, Eastpointe, Michigan, 48021","Email":"Info@BestTaxTeam.com"}
+{"Company_Name":"THE TAX GURUS LLC","Home_Address":"91 N Saginaw St, Pontiac, Michigan, 48342","Email":"INFO@TAXGURUSLLC.COM"}
+{"Company_Name":"Paramount Tax Resources LLC","Home_Address":"100 N Patterson St, Valdosta, Georgia, 31601","Email":"Info@paramounttaxresources.com"}
+{"Company_Name":"T G J Tax Services","Home_Address":"4100 Center Pointe Dr. Ste 104, Fort Myers, Florida, 33916","Email":"info@tgjtaxservices.com"}
+{"Company_Name":"Fovea Bookkeeping & Tax","Home_Address":"2319 W Arroyo Way, San Tan Valley, Arizona, 85142","Email":"Latasha@foveausa.com"}
+{"Company_Name":"Smith Strong Services","Home_Address":"Pearland, Pearland, Texas, 77584","Email":"info@smithstrongservices.com"}
+{"Company_Name":"Spec Tax Services","Home_Address":"337 Linda Ave, Hoover, Alabama, 35226","Email":"dnlldaniel@yahoo.com"}
+{"Company_Name":"Fertilizing Tax","Home_Address":"2431 Manhattan Blvd, Harvey, Louisiana, 70058","Email":"ijale@fertilizingtax.com"}
+{"Company_Name":"TFS Financial Group","Home_Address":"Cedar Hill, Cedar Hill, Texas, 75104","Email":"info@tfsfinancialgroup.com"}
+{"Company_Name":"PRO TAX SERVICES","Home_Address":"148 S Main St., Ste 100A, Mount Clemens, Michigan, 48043","Email":"protaxinfo@email.com"}
+{"Company_Name":"Anytime Tax & Financial Services","Home_Address":"22622 Aldine Westfield Rd, Spring, Texas, 77373","Email":"alexis@anytimefinancial.org"}
+{"Company_Name":"Steady Refunds","Home_Address":"601 Cobblestone Cir, Newport News, Virginia, 23608","Email":"eross@steadyrefunds.com"}
+{"Company_Name":"Pretty Quick Tax Service llc","Home_Address":"11206 Lake June Rd, Balch Springs, Texas, 75180","Email":"prettyquicktaxservices@gmail.com"}
+{"Company_Name":"Innovative Tax Services, LLC","Home_Address":"1440 W Taylor St, Chicago, Illinois, 60607","Email":"info@innovativetaxservices.com"}
+{"Company_Name":"Fuller Tax Services","Home_Address":"5 Mimosa St, Selma, Alabama, 36701","Email":"fullertaxservices@gmail.com"}
+{"Company_Name":"A&E Financial Services LLC","Home_Address":"7324 Southwest Fwy, Houston, Texas, 77074","Email":"aefinancialservicesllp@gmail.com"}
+{"Company_Name":"Zeph United Financial Service LLC","Home_Address":"8035 E R L Thornton Fwy, Dallas, Texas, 75228","Email":"contact_zephunited@yahoo.com"}
+{"Company_Name":"Davis Tax Consulting & Financial Services LLC","Home_Address":"272 Main St, Barnwell, South Carolina, 29812","Email":"adavis@davistaxconsultingfs.com"}
+{"Company_Name":"A-Countability Plus Tax Service","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Your tax doctor llc","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"CAS Financial","Home_Address":"undefined, undefined, undefined, undefined"}
+{"Company_Name":"Visionary Accounting & Tax Services","Home_Address":"undefined, undefined, undefined, undefined","Email":"solutions@visionarytax.net"}
+{"Company_Name":"Jerica Tax Service and Associates","Home_Address":"1608 Glasshouse St, Beaumont, Texas, 77703","Email":"jblandry83@gmail.com"}
+{"Company_Name":"J Prince Tax Solutions Agency Of Tennessee LLC","Home_Address":"476 Trigg Ave, Memphis, Tennessee, 38104","Email":"jptsatn@outlook.com"}
+{"Company_Name":"MKG Tax Consultants","Home_Address":"4021 N Fresno St, Fresno, California, 93726","Email":"support@mkgtaxconsultants.com"}
+{"Company_Name":"Melanin Tax Solutions","Home_Address":"1200 Waters Pl, New York, New York, 10461","Email":"lorraine@melanintax.com"}
+{"Company_Name":"Smart Business Solutions","Home_Address":"610 Uptown Blvd, Cedar Hill, Texas, 75104","Email":"info@smartbusinesssolutionstx.com"}
+{"Company_Name":"Nations Financial Services","Home_Address":"1901 N Slappey Blvd suite D, Albany, Georgia, 31701","Email":"info@shondawilliams.com"}
+{"Company_Name":"Quality Tax","Home_Address":"996 E New Circle Rd, Lexington, Kentucky, 40505","Email":"info@qualitypowerhouse.com"}
+{"Company_Name":"Integrity Financial Solution","Home_Address":"3274 St Stephens Rd, Mobile, Alabama, 36612","Email":"integrityfinancialtaxsolution@gmail.com"}
+{"Company_Name":"Thomas Financial LLC","Home_Address":"3939 US-80, Mesquite, Texas, 75150","Email":"shatonya@thomasfinancial-tax.com"}
+{"Company_Name":"Tax Genie Professional Software","Home_Address":"525 Huffman Rd, birmingham, Alabama, 35215","Email":"dee@deeEdwardsOnline.com"}
