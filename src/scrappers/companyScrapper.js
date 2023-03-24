@@ -1,8 +1,9 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require("fs");
 const { appendToFile } = require("../fileHandlers.js/createFile");
 const { matchEmail, matchPhone } = require("../helpers/regexFunctions");
+const CronJob = require("cron").CronJob;
+const fs = require("fs");
 
 // scrapping the tax business site for email, address and name
 const companyScrapper = async (url) => {
@@ -58,10 +59,19 @@ const companyScrapper = async (url) => {
     });
 };
 
-
 const readF = fs.readFileSync("../files/output.txt", "utf-8");
 const companies = readF.split("\n");
 
-for (let i = 0; i <= companies.length; i++) {
-  companyScrapper(companies[i]);
-}
+const job = new CronJob("*/2 * * * *", function () {
+  for (let i = 0; i <= companies.length; i++) {
+    companyScrapper(companies[i]);
+  }
+});
+
+job.start();
+// const readF = fs.readFileSync("../files/output.txt", "utf-8");
+// const companies = readF.split("\n");
+
+// for (let i = 0; i <= companies.length; i++) {
+//   companyScrapper(companies[i]);
+// }
