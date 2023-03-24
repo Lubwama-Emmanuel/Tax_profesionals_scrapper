@@ -2,9 +2,9 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const { appendToFile } = require("../fileHandlers.js/createFile");
-const { matchEmail, matchPhone } = require("../helpers/matchLink");
+const { matchEmail, matchPhone } = require("../helpers/regexFunctions");
 
-// scrapping the tax business site
+// scrapping the tax business site for email, address and name
 const companyScrapper = async (url) => {
   const address = [];
   let taxName;
@@ -46,12 +46,11 @@ const companyScrapper = async (url) => {
 
       const location =
         address[2] + ", " + address[3] + ", " + address[4] + ", " + address[5];
-      //   console.log(location);
       comp.Company_Name = taxName;
       comp.Home_Address = location;
       comp.Email = email;
       comp.Phone_Number = phone;
-      console.log(comp)
+      console.log(comp);
       appendToFile("../files/final.txt", JSON.stringify(comp));
     })
     .catch((err) => {
@@ -59,9 +58,6 @@ const companyScrapper = async (url) => {
     });
 };
 
-// companyScrapper(
-//   "https://blacktaxprofessionals.com/taxprofessionals/one-touch-tax-services-llc/"
-// );
 
 const readF = fs.readFileSync("../files/output.txt", "utf-8");
 const companies = readF.split("\n");

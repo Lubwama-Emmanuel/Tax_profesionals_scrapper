@@ -1,9 +1,9 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const { matchLink } = require("../helpers/matchLink");
+const { matchLink } = require("../helpers/regexFunctions");
  
 // Scraps for tax professionals weblinks
-exports.scrapper = async (url) => {
+scrapper = async (url) => {
   await axios
     .get(url)
     .then((response) => {

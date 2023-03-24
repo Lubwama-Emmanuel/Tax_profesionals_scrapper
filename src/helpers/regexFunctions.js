@@ -17,6 +17,7 @@ exports.matchEmail = (s) => {
   return email[0]
 };
 
+// Matches and returns phone_number
 exports.matchPhone = (num) => {
   const regex = /[0-9]+/
   const phoneNumber = num.match(regex)
