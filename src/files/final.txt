@@ -414,3 +414,9 @@
 {"Company_Name":"MoneySmart Tax Services, Inc.","Home_Address":"24225 W Nine Mile Rd, Southfield, Michigan, 48033","Email":"team@getmoneysmartservices.com","Phone_Number":"2488648955"}
 {"Company_Name":"Infinity Tax & Financial Solutions","Home_Address":"1 Galleria Blvd, Metairie, Louisiana, 70001","Email":"Info@InfinityTaxLA.Org","Phone_Number":"5043830405"}
 {"Company_Name":"Savvy Tax Group","Home_Address":"3715 Northside Pkwy NW, Atlanta, Georgia, 30327","Email":"info@savvytaxgroup.com","Phone_Number":"6788663661"}
+{"Company_Name":"TLJ Professional Services Inc","Home_Address":"66 Franklin St, Oakland, California, 94607","Email":"tracytate7@aol.com","Phone_Number":"4153055361"}
+{"Company_Name":"Lopez Tax Services LLC","Home_Address":"Bayonne, Bayonne, New Jersey, 07002","Email":"nichole@lopeztaxservicesllc.com","Phone_Number":"2012384610"}
+{"Company_Name":"Free Your Finances","Home_Address":"Fern Meadow Dr, Fort Worth, Texas, 76179","Email":"Toni@freeyourfinancestoday.com","Phone_Number":"8559443733"}
+{"Company_Name":"Distinct Tax Consulting Group","Home_Address":"1115 Mt Zion Rd, Morrow, Georgia, 30260","Email":"info@distincttax.com","Phone_Number":"7707429136"}
+{"Company_Name":"Tax 360","Home_Address":"6751 Macon Rd Ste 11, Columbus, Georgia, 31907","Email":"info@taxx360.com","Phone_Number":"7625247106"}
+{"Company_Name":"Nations Financial Services","Home_Address":"1901-D N Slappey Blvd, Albany, Georgia, 31701","Email":"info@shondawilliams.com","Phone_Number":"2295737047"}
